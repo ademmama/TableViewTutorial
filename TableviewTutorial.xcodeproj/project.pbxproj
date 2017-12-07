@@ -14,6 +14,7 @@
 		376B98AB1FD9B08C00972A8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 376B98A91FD9B08C00972A8B /* LaunchScreen.storyboard */; };
 		376B98B61FD9B08D00972A8B /* TableviewTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376B98B51FD9B08D00972A8B /* TableviewTutorialTests.swift */; };
 		376B98C11FD9B08D00972A8B /* TableviewTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376B98C01FD9B08D00972A8B /* TableviewTutorialUITests.swift */; };
+		376B98CF1FD9B3F000972A8B /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 376B98CE1FD9B3F000972A8B /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		376B98BC1FD9B08D00972A8B /* TableviewTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableviewTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		376B98C01FD9B08D00972A8B /* TableviewTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableviewTutorialUITests.swift; sourceTree = "<group>"; };
 		376B98C21FD9B08D00972A8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		376B98CE1FD9B3F000972A8B /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				376B98A01FD9B08C00972A8B /* AppDelegate.swift */,
 				376B98A21FD9B08C00972A8B /* ViewController.swift */,
+				376B98CE1FD9B3F000972A8B /* ViewController2.swift */,
 				376B98A41FD9B08C00972A8B /* Main.storyboard */,
 				376B98A71FD9B08C00972A8B /* Assets.xcassets */,
 				376B98A91FD9B08C00972A8B /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				376B98A31FD9B08C00972A8B /* ViewController.swift in Sources */,
 				376B98A11FD9B08C00972A8B /* AppDelegate.swift in Sources */,
+				376B98CF1FD9B3F000972A8B /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
